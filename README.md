@@ -56,3 +56,4 @@ Bu proje aşağıdaki konularda pratik yapmak için geliştirilmiştir:
 * 🧠 Nesne Yönelimli Programlama (OOP)
 * 🪟 Windows Forms ile masaüstü uygulama geliştirme
 * 💻 C# programlama pratiği
+
