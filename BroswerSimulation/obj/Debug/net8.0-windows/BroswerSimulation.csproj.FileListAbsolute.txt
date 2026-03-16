@@ -1,0 +1,17 @@
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\bin\Debug\net8.0-windows\BroswerSimulation.exe
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\bin\Debug\net8.0-windows\BroswerSimulation.deps.json
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\bin\Debug\net8.0-windows\BroswerSimulation.runtimeconfig.json
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\bin\Debug\net8.0-windows\BroswerSimulation.dll
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\bin\Debug\net8.0-windows\BroswerSimulation.pdb
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\BroswerSimulation.Form1.resources
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\BroswerSimulation.Form2.resources
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\BroswerSimulation.csproj.GenerateResource.cache
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\BroswerSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\BroswerSimulation.AssemblyInfoInputs.cache
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\BroswerSimulation.AssemblyInfo.cs
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\BroswerSimulation.csproj.CoreCompileInputs.cache
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\BroswerSimulation.dll
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\refint\BroswerSimulation.dll
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\BroswerSimulation.pdb
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\BroswerSimulation.genruntimeconfig.cache
+C:\Users\suden\source\repos\BroswerSimulation\BroswerSimulation\obj\Debug\net8.0-windows\ref\BroswerSimulation.dll
